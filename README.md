@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-code712&show_icons=true&theme=radical)
+![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-code712&show_icons=true&theme=transparent)
 
 <!--
 **lee-code712/lee-code712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
